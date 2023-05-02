@@ -7,4 +7,4 @@
 [![Discord](https://img.shields.io/discord/746155721392914442?color=%237289da&label=MY%20DISCORD&logo=Discord&style=for-the-badge)](https://discord.gg/mS4FdYd6rV)
 [<img align="left" alt="cankcygt| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />](https://discord.gg/mS4FdYd6rV)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3str0yGM&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HafizMehdiyev&show_icons=true&theme=radical)
